@@ -17,7 +17,6 @@
 
 <br/>
 
-![Banner](homeIMG.jpg)
 
 </div>
 
@@ -58,7 +57,7 @@ Unlike basic classifiers, this system also:
 
 ## 🔗 Live Demo
 
-> 🌐 **[Launch App →](https://agrigaurd-ai-crop-disease-detection.streamlit.app/)**
+> 🌐 **[Launch App →](https://crop-disease-detection-system-md8siq49w46nfoudounw3t.streamlit.app/)**
 
 ---
 
@@ -202,7 +201,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-The app will open automatically at **http://localhost:8501**
+The app will open automatically at **http://localhost:**
 
 ---
 
@@ -357,6 +356,5 @@ This ensures users always receive meaningful, accurate results rather than incor
 
 **⭐ If this project helped you, please give it a star on GitHub!**
 
-`© 2025 Crop Disease Detection System · MIT License`
 
 </div>
