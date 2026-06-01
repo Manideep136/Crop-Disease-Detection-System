@@ -57,7 +57,7 @@ Unlike basic classifiers, this system also:
 
 ## 🔗 Live Demo
 
-> 🌐 **[Launch App →](https://crop-disease-detection-system-md8siq49w46nfoudounw3t.streamlit.app/)**
+> 🌐 **[Launch App →] https://crop-disease-detection-system-md8siq49w46nfoudounw3t.streamlit.app/**
 
 ---
 
